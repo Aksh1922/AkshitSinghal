@@ -1,4 +1,4 @@
-# AkshitSinghal
+# Ai Resume Analyzer
 Hi, I am Akshit 
 AI Resume Analyzer using Python & streamlit
 Features
